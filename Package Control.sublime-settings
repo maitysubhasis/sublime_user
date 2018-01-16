@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AlgoLang",
+		"BracketHighlighter",
+		"C11",
+		"DistractionFreeWindow",
+		"Emmet",
+		"Golang Build",
+		"Golang Tools Integration",
+		"GoSublime",
+		"HTML Snippets",
+		"HTML5",
+		"JavaImports",
+		"JavaScript Completions",
+		"JavaScript Snippets",
+		"JsFormat",
+		"JSX",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Materialize-Appbar",
+		"Package Control",
+		"RegReplace",
+		"rsub",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-jshint",
+		"Terminal",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
+	]
+}
