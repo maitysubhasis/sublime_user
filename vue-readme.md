@@ -1,3 +1,15 @@
+
+<div class='divider'></div>
+<style>
+  .divider{
+    height: 1px;
+    width: 100%;
+    position: 100%;
+    background: red;
+    top: 3508px;
+  }
+</style>
+
 <p align="center"><a href="https://vuejs.org" target="_blank"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
 
 <p align="center">
