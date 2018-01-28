@@ -133,6 +133,8 @@ Funds donated via Patreon goes directly to support Evan You's full-time work on 
 
 <h3 align="center">Sponsors via <a href="https://opencollective.com/vuejs">Open Collective</a></h3>
 
+<hr>
+
 <h4 align="center">Platinum</h4>
 
 <a href="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/website" target="_blank"><img src="https://opencollective.com/vuejs/tiers/platinum-sponsors/0/avatar.svg"></a>
